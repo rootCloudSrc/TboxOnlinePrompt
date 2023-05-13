@@ -25,7 +25,8 @@
 		.安装之后，找到安装目录下的两个文件(libcrypto-1_1.dll 和libssl-1_1.dll)，拷贝到QT编译器目录下即可(C:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin)。
 
 ******************************************************************************************************************************
-![image](https://github.com/yugy2018/TboxOnlinePrompt/assets/36293079/44a2f01b-54c6-443e-ad05-2e5bb2318466)
-![image](https://github.com/yugy2018/TboxOnlinePrompt/assets/36293079/49af7899-2d71-4c7c-b43b-be3cb70e78bb)
+![image](https://github.com/rootCloudSrc/TboxOnlinePrompt/assets/36293079/a667180d-e8e8-4850-8420-4162e6b11687)
+![image](https://github.com/rootCloudSrc/TboxOnlinePrompt/assets/36293079/b4a8de89-87f1-4f7b-b878-2359d9c27902)
+
 
 
