@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Tbox.png</file>
+        <file>null.png</file>
+    </qresource>
+</RCC>
